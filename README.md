@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi my name is Christian Köberl 👋
 
-<!--
-**derkoe/derkoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 All-end developer and software gardener aka Chief Technical Architect at [@Porsche Informatik](https://github.com/porscheinformatik/) 
 
-Here are some ideas to get you started:
+🌐 https://derkoe.dev/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter: @derkoe](https://img.shields.io/twitter/follow/derkoe?style=social)](https://twitter.com/derkoe)
+[![GitHub: @derkoe](https://img.shields.io/github/followers/derkoe?label=follow&style=social)](https://github.com/derkoe)
+[![Stack Overflow: koe](https://img.shields.io/stackexchange/stackoverflow/r/3248158?label=stackoverflow&logo=stackoverflow)](https://stackoverflow.com/users/3248158/koe)
+
+## Projects
+
+I'm the maintainer of the following Open Source projects
+
+* [Eclipse Jetty Plugin](https://eclipse-jetty.github.io/)
+* [SonarQube License Check Plugin](https://github.com/porscheinformatik/sonarqube-licensecheck) 
